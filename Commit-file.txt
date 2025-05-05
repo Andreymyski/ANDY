@@ -1,4 +1,4 @@
 import random
 
-random_number = random.randint(1, 100)
-print("Случайное число от 1 до 100:", random_number)
+random_number = random.randint(1, 99)
+print("Случайное число от 1 до 99:", random_number)
